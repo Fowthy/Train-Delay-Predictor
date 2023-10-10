@@ -1,0 +1,18 @@
+Predict Delay duration and predict if delay 
+
+Cleaning
+Weekdays
+Rush hour - Time groups
+
+Correlation matrix
+
+
+Scatter plots for regression for delay duration - Time series probably better
+Classification for delay probability - delay duration 0 (No delay) or delay duration > 0 (Delay)
+	Clustering - Agglomerative - Unsupervized
+	Nearest neighbor - Supervised
+	Random Forest - Many Trees - Supervised
+	Decision Tree - Supervised
+	Neural Network - seems more iffy
+Time series - ARIMA MODEL
+Gridsearching - for hyperparameters of all models

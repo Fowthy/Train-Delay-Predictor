@@ -1,0 +1,57 @@
+Notes about the presentation:
+
+Classification to predict wether the is going to be a delay or not.
+Question about clarifying what we are actually predicting.
+
+Advice:
+Time series is quite difficult and would imply that there is something that which happened
+earlier has influence of what happened now.
+But if you just look at delay time, it can just be a regression problem.
+Because you only want to know the time of the delay
+You can also look at it like a classification problem. Just to see if its
+5-10 minutes or 10-15 minutes etc.
+This entire thing would simplify it and what the client recommended and that we should
+look into that. Starting there and then maybe making it more complex.
+
+Did you think about how you are gonna investigate the data:
+Visualising the data so we can get some insights out of it. Based on those insights we can go
+further and we can try the algorithms on it.
+
+In the end what Ordina would like to have:
+A model which is able to predict "something"
+You don't have to build a complete application because that would take time away from
+the model, and the model is the most important thing.
+
+Also a mockup to show how it would look is also enough. To showcase how it all looks
+and what kind of input you would have. 
+
+Another advice:
+Make the problem small. Dont look at all the tracks in the Netherlands. Pick some routes
+or one route, try to show that you can predict something for that route, and then make
+it bigger. So for example: Focus on Brabant (Utrecht -> Eindhoven or Tilburg -> Eindhoven)
+
+Visualising the data question: Do we have workshops about it?
+(Seems like he is interested in just visualising it)
+It's quite an important step, so next meeting we should have some graphs about what
+insights we had from the data.
+
+Remco: I dont expect anything, ofcourse try to amaze us but i dont have a plan that you should
+have this and this and this. Thats for your teachers to decide. It is important for us
+that we have a model. And its important u ask us on how we can help with making the model
+better. Visualisation helps with that a lot. So for now he agrees with the plan, but
+we can also maybe look at what is important for Ordina, why its important for them to
+know the delays.
+
+Remco would like to have the documentation to scan through it and might give some feedback
+on it if we really need it but he can't promise anything.
+
+He wants to know which kind of algorithm we will be using because that will have a big
+influence on the outcome of the project.
+
+Always think about what the client wants, that will influence the end product a lot.
+(So i think visualising the data what we find out, and also which algorithm we'll end up
+using).
+
+If you need feedback: Send an email and they will make it a priority (Makes it easier for
+them to give feedback and to know what to focus on)
+
